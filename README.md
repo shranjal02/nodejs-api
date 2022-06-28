@@ -1,2 +1,3 @@
-# nodejs-api.github.io
+# nodejs-apis
+
 Simple express-node APIs which provides data from jsonplaceholder
